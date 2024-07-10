@@ -1,1 +1,2 @@
 # PRODIGY_ML_02
+This project implements the K-means clustering algorithm to segment customers of a retail store based on their purchase history data. Customer segmentation is a crucial marketing strategy that helps businesses understand their customer base better and tailor marketing campaigns accordingly. By grouping customers with similar purchasing behaviors, retailers can develop targeted promotions, loyalty programs, and product recommendations to increase customer lifetime value and sales.
